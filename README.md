@@ -94,7 +94,7 @@ The objective was to analyze:
 
 ## 📸 Dashboard Preview
 
-![MAIN](Blinkit Dashboard_new.jpg)
+![MAIN](BlinkitDashboard_new.png)
 
 
 ---
